@@ -1,4 +1,17 @@
 # DECISION-TREE-IMPLEMENTATION
+
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: RAUNAQ SAMIN
+
+INTERN ID: CTIS3541
+
+DOMAIN: MACHINE LEARNING
+
+DURATION: 4 WEEKS
+
+MENTOR: NEELA SANTOSH
+
 Iris Classification using Decision Tree
 
 This project demonstrates a simple machine learning model that classifies iris flowers into species using a Decision Tree Classifier.
